@@ -1,2 +1,3 @@
 float64 position
+float64 target_velocity
 float64 max_effort
